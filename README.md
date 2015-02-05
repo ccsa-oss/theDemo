@@ -1,2 +1,2 @@
-# theDemo
-Demonstration of new technologies
+README for invmcman
+==========================
